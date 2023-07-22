@@ -11,7 +11,7 @@ Other fields of physics are needed, except biological, and astronomical.
 # Why [Physic]?
 We want all engineers to be avalible on demand for any work resource + integration support, as multiple "modules" will be able to integrate together no matter what team
 
-# Liquistics?
+# Lex?
 - English 2023+ [Will Obesolete]
 - Moroccan Arabic (Optional) [Gulf Arabic based languages are good too]
 - Modern Standard Arabic [REQUIRED]
